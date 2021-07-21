@@ -1,0 +1,11 @@
+*
+!challenges/
+!com/
+!com/craftinginterpreters
+!com/craftinginterpreters/lox
+!com/craftinginterpreters/tool
+!*.java
+!*.c
+!Makefile
+!.gitignore
+
